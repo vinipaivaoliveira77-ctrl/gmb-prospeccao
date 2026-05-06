@@ -865,5 +865,623 @@ Apesar das barreiras, existem 3-4 caminhos de diferencial viável para Blue Garz
 
 ---
 
+---
+
+# Seção 5: Recomendações Estratégicas para Blue Garza
+
+## Produto Priorizado: Café Orgânico
+
+### Justificativa Estratégica
+
+Blue Garza deve priorizar **café orgânico de origem única** como seu produto âncora. Esta recomendação se fundamenta em cinco pilares específicos:
+
+**1. Crescimento Global Robusto (8,4% CAGR)**
+Café orgânico é um mercado em expansão consistente (USD 8-11 bilhões em 2025, projeção USD 13-20 bilhões em 2030), impulsionado por millennials e Gen Z dispostos a pagar 20-40% premium por qualidade, origem verificada e sustentabilidade certificada. Este crescimento supera significativamente o mercado de café convencional (2-3% CAGR).
+
+**2. Sazonalidade Constante (12 meses/ano)**
+Diferente de vinho (sazonal 2x) ou cacau (sazonal), café tem demanda constante entre turistas premium e expats permanentes. Isto permite modelo de receita previsível fora da temporada turística alta, mitigando um dos principais riscos operacionais de Nosara.
+
+**3. Consumidor Nosara Pronto e Disposto**
+Turistas wellness (yoga, health-conscious, renda média-alta) e expats permanentes (USD 2.500-10.000+/mês) representam 60-70% da demanda local. Ambos segmentos valorizam produto premium, origem transparente e sustentabilidade. Dados históricos de Nosara confirmam disposição de pagar 20-40% acima do mercado por qualidade percebida.
+
+**4. Diferencial Competitivo Claro**
+Blue Garza pode se posicionar como **especialista em café** (vs Orgánico Nosara que é full-service genérico) com modelo de delivery digital + storytelling de origem. Isto oferece vantagem de:
+- Overhead operacional menor (especialização vs full-service)
+- Melhor preço no café puro (sem custos de restaurante/bakery)
+- Acesso direto via WhatsApp (vs presença física necessária)
+- Expertise em specialty coffee (cupping notes, origem, terroir)
+
+**5. Operacional Escalável Sem Complexidade Alta**
+Café não requer produção local (como cacau/queijo) ou investimento em loja física imediato. Modelo inicial de delivery + WhatsApp permite validação com custo baixo. Sourcing direto com cooperativas certificadas em Tarrazú reduz margens de importação.
+
+**Score Final:** 8,8/10 — Produto com maior alinhamento para Blue Garza.
+
+---
+
+### Posicionamento Recomendado
+
+**Marca:** Blue Garza Coffee (ou Café Blue Garza)
+
+**Tagline em Espanhol:** "Café artesanal de Nosara. Origen, calidad, comunidad."
+
+**Positioning Statement:**
+Café orgânico premium de origem única, sourced diretamente de pequenos produtores certificados na Costa Rica e entregue fresh a Nosara. Blue Garza é especialista em specialty coffee, oferecendo rastreabilidade completa (farm-to-cup), sustentabilidade verificada (deforestation-free, Fair Trade) e storytelling imersivo de origem. Modelo de delivery digital + WhatsApp para turistas premium e residentes permanentes que buscam conveniência sem sacrificar qualidade.
+
+---
+
+### Diferencial Competitivo vs. Concorrentes Principais
+
+#### vs. Orgánico Nosara
+- **Orgánico:** Full-service (grocer + bakery + restaurante) = overhead alto, generalista em tudo, especialista em nada
+- **Blue Garza:** Especialista em café = overhead baixo, expertise profunda, melhor preço no produto puro
+- **Vantagem:** Preço competitivo no café + acesso direto (delivery) + expert knowledge (cupping notes, terroir, origem story)
+
+#### vs. Super Nosara
+- **Super Nosara:** Conveniência genérica, variedade completa, sem diferencial narrativo de qualidade
+- **Blue Garza:** Premium especializado, storytelling forte (origem, sustentabilidade, produtor story), modelo digital
+- **Vantagem:** Diferenciação clara via posicionamento + modelo de negócio inovador (delivery vs presença física)
+
+#### vs. Pali / Super La Paloma
+- **Pali/La Paloma:** Budget, sem premium/orgânico, target audience: Ticos locais
+- **Blue Garza:** Premium specialist, target audience: turistas/expats
+- **Vantagem:** Não há competição direta (segmento de mercado completamente diferente)
+
+---
+
+### Narrativa de Marca: Storytelling Possível
+
+**Narrative Principal:** "De la montaña a tu puerta — Café artesanal de Costa Rica"
+
+**Sub-narrativas:**
+
+1. **Origen:** "Conoce el caficultor que cultiva tu café"
+   - Contar história de produtor específico, altitude de plantação, método de cultivo
+   - Conectar com valor de "rastreabilidade" e "farm-to-cup transparency"
+   - Exemplo: "Café de Tarrazú, cultivado a 1.500m por la familia López desde 3 generaciones"
+
+2. **Sustentabilidad:** "Deforestation-free desde el primer grano"
+   - Conectar com EU Deforestation Regulation trends
+   - Explicar certificações orgânicas e Fair Trade
+   - Engagement: "Cada compra protege 50m² de floresta em Costa Rica"
+
+3. **Comunidad:** "Apoyo directo a pequeños productores costarricenses"
+   - Fair-trade narrative, impacto social direto
+   - Explicar modelo de comercio direto vs intermediários
+   - Engagement: "15% de cada compra vai diretamente para a família produtora"
+
+4. **Calidad:** "Specialty coffee tasting notes — descubre el terroir"
+   - Educação do consumidor sobre cupping, notas de sabor, corpo
+   - Experiential angle: "Teste três origens e descubra seu favorito"
+   - Diferenciação vs café commodity genérico
+
+---
+
+## Diferencial Sustentável: Modelo de Negócio
+
+Blue Garza diferencia-se não apenas por produto, mas por **modelo operacional integrado:**
+
+| Dimensão | Orgánico Nosara | Super Nosara | Blue Garza |
+|----------|-----------------|--------------|-----------|
+| **Posicionamento** | Premium + wellness, full-service | Conveniência genérica | Premium + especializado |
+| **Modelo** | Lojas físicas (grocer+bakery+restaurante) | Lojas físicas (genérico) | **Delivery + digital** |
+| **Especialização** | Full-service (generalista) | Genérico | **Especialista café** |
+| **Acesso** | Presença física obrigatória | Presença física obrigatória | **WhatsApp + app** |
+| **Overhead** | Alto (espaço + pessoal + horário) | Alto (espaço + variedade) | **Baixo (delivery + WhatsApp)** |
+| **Target** | Wellness turista, expat health | Expat geral | **Turista premium + expat residente** |
+| **Diferencial** | Comunidade, reputação 15 anos | Variedade, one-stop-shop | **Expertise + conveniência + origem story** |
+
+**Implicação:** Blue Garza não compete head-to-head em presença física ou variedade. Compete em especialização + conveniência + narrativa.
+
+---
+
+# Seção 6: Ações Táticas — Meta Ads e Canais Complementares
+
+## Estratégia de Marketing: Meta Ads como Pilar Principal
+
+### Visão Geral
+
+- **Plataforma principal:** Meta (Facebook/Instagram)
+- **CTA central:** WhatsApp para pedido/entrega
+- **Segmentação:** 5 ângulos distintos (turista wellness, expat permanente, local tico, fitness, gift/souvenir)
+- **Sazonalidade:** Aumentar budget Nov-Apr (temporada alta), manter presença Jul-Out (temporada baixa)
+- **Budget inicial:** USD 500-1.000/mês (faseado por sazonalidade)
+
+### Ângulo 1: Turista Wellness (High Intent — Temporário)
+
+**Segmentação de Targeting:**
+- Idade: 25-55 anos
+- Localização: Nosara (5km) + viajantes recentes para Costa Rica
+- Interesse: Yoga, wellness, organic, health, travel, meditation
+
+**Proposta de Valor:**
+Café premium artesanal entregue diretamente a sua casita em Nosara. Single-origin, orgânico certificado, produzido por pequenas famílias costarricenses. Energía limpia para comenzar tu dia de surf, yoga, o meditação.
+
+**Copy (Espanhol, sem emoji):**
+"Comienza tu dia en Nosara con café artesanal de verdad. Single-origin costarricense, organico certificado, entregado a tu casa o casita. Conoce el productor. Apoya el terroir. Fresco garantizado."
+
+**Benefício Principal:**
+- Café premium local (diferente de cadeia genérica)
+- Sustentabilidade verificada (alinha com valores wellness)
+- Conveniência delivery (otimiza tempo para yoga/surf/experiência)
+- Storytelling de impacto social (apoio direto a produtor)
+
+**CTA:**
+"Pide ahora por WhatsApp — Entrega gratis en Nosara"
+
+**Visual Recomendado:**
+- Imagem 1: Xícara de café premium com Playa Garza/oceano ao fundo
+- Imagem 2: Close de plantação de café com montanha/produtor
+- Imagem 3: Mãos de caficultor colhendo grãos (human connection)
+
+**Frequência:** Diária em temporada alta (Nov-Apr), 3-4x/semana em temporada média
+
+---
+
+### Ângulo 2: Expat Permanente (Loyalty + Routine)
+
+**Segmentação de Targeting:**
+- Idade: 35-65 anos
+- Localização: Nosara + nearby (Tamarindo, Samara)
+- Idioma: Preferência por inglês (expat USA/Europe)
+- Interesse: Sustainability, local support, quality, organic, fair trade
+
+**Proposta de Valor:**
+Entrega semanal de café fresco de origem verificada. Suporte direto a pequenos produtores costarricenses. Modelo de subscrição com fresco garantido. Para expats que buscam rotina de qualidade e impacto social.
+
+**Copy (Bilíngue, espanhol + inglês):**
+"Weekly Coffee Delivery — Support Local. Organic specialty coffee from Costa Rican family farms. Fair trade, direct to your door. Subscription model, first bag 20% off."
+
+**Ou em Espanhol puro:**
+"Entrega semanal de café artesanal costarricense. Organico, fair-trade, directamente de pequeños productores. Modelo subscripcion con fresco garantizado. Apoya la comunidad costarricense."
+
+**Benefício Principal:**
+- Rotina semanal/mensal garantida (conveniência, ritual)
+- Suporte direto a produtores locais (impacto community real)
+- Fresco garantido (superior a super genérico)
+- Conexão emocional com origem (storytelling)
+
+**CTA:**
+"Order Weekly Subscription on WhatsApp — First Bag 20% Off"
+
+**Visual Recomendado:**
+- Imagem 1: Café em grãos frescos + moedor (quality signal)
+- Imagem 2: Caficultor costarricense + expat compartilhando café (community)
+- Imagem 3: Playa Garza sunrise com xícara de café
+
+**Frequência:** 2-3x/semana em temporada baixa (Jul-Out, foco em retenção/subscription), 4-5x/semana em alta
+
+---
+
+### Ângulo 3: Local Tico Premium (Value + Pride)
+
+**Segmentação de Targeting:**
+- Idade: 30-50 anos
+- Localização: Nosara + Nicoya region
+- Idioma: Espanhol
+- Comportamento: Compra produtos premium para família, suporta local, orgulho nacional
+
+**Proposta de Valor:**
+Café costarricense de verdad, de pequeno produtor da região, con justicia para la familia caficultor. Premium local, non importado. Organico, fair, para familias costarricenses que valoram calidad y comunidad.
+
+**Copy (Espanhol):**
+"Café nuestro, de verdad. Productor costarricense, tierra costarricense, para familias costarricenses. Organico certificado, justicia para el caficultor, entrega en Nosara."
+
+**Benefício Principal:**
+- Orgullo local (café tico premium, não importado)
+- Preço justo/comunidade (fair-trade narrative)
+- Suporte economia local (diferencial vs importação)
+- Qualidade premium accesível (vs Orgánico Nosara que é cara demais)
+
+**CTA:**
+"Encargá por WhatsApp — Entrega gratis en Nosara"
+
+**Visual Recomendado:**
+- Imagem 1: Bandeira Costa Rica + xícara de café (pride)
+- Imagem 2: Agricultor tico com sorriso genuíno (human connection, confiança)
+- Imagem 3: Frase bold: "Café tico para costarricenses"
+
+**Frequência:** 2-3x/semana (público menos sensível a sazonalidade)
+
+---
+
+### Ângulo 4: Saúde & Fitness (Functional Angle)
+
+**Segmentação de Targeting:**
+- Idade: 25-45 anos
+- Localização: Nosara (yoga studios, beach gyms, crossfit)
+- Interesse: Health, fitness, organic, wellness, functional food, performance
+
+**Proposta de Valor:**
+Café orgânico como ferramenta de performance. Sem pesticidas, puro, energía limpa para treino, yoga, ou dia de trabalho. Specialty coffee com cafeína consistente (melhor que café genérico).
+
+**Copy (Espanhol):**
+"Energía limpia para tu entreno. Café organico sin pesticidas, robusto y limpio. Cafeína pura, mejor que café genérico. Perfecto pre-workout, post-yoga, cualquier hora del dia."
+
+**Benefício Principal:**
+- Performance (cafeína pura, sem químicos que diluem)
+- Saúde (organic = sem resíduos químicos, limpo)
+- Energia consistente (specialty coffee = melhor absorción)
+- Diferencial vs Café de super (genérico, com aditivos)
+
+**CTA:**
+"Pide tu bolsa ahora — Entrega HOY en Nosara"
+
+**Visual Recomendado:**
+- Imagem 1: Xícara de café com academia/yoga mat, pesos em fundo
+- Imagem 2: Atleta/yogui tomando café premium (lifestyle aspiracional)
+- Imagem 3: Close de grãos de café premium (quality signal)
+
+**Frequência:** Diária em alta temporada (muitos turistas fitness), 3-4x/semana em baixa
+
+---
+
+### Ângulo 5: Gift/Souvenirs (Turista que Sai)
+
+**Segmentação de Targeting:**
+- Idade: 30-60 anos
+- Localização: Nosara (pixel remarketing = pessoas nos últimos dias de viagem)
+- Comportamento: Browsing souvenirs, artesanato, gifts para levar
+- Interesse: Local products, authentic souvenirs, artisan
+
+**Proposta de Valor:**
+Café artesanal costarricense como gift premium. Embalagem bonita, história de origem, impacto real. Diferente de souvenirs genéricos.
+
+**Copy (Espanhol):**
+"Lleva Nosara en tu maleta. Café artesanal costarricense, regalo perfecto para llevar a casa. Embalaje bonito, historia de productor, impacto real. Amigos en casa van a amar."
+
+**Benefício Principal:**
+- Lembranças autênticas (vs souvenirs genéricos Chinatown)
+- Storytelling de presente (conta história de Nosara/produtor para quem recebe)
+- Consciência: Suporte direto a comunidade (melhor que gift genérico)
+
+**CTA:**
+"Encargá como regalo — Envio internacional disponible"
+
+**Visual Recomendado:**
+- Imagem 1: Café em embalagem bonita + gift wrapping + xícara
+- Imagem 2: Café como artesanato local premium (artisan angle)
+- Imagem 3: Família/amigos compartilhando café (lifestyle aspiracional)
+
+**Frequência:** Intensiva em Nov, Dez, Jan, Fev (saída de turistas), 1x/semana em outros meses
+
+---
+
+### Orçamento e Alocação por Ângulo
+
+**Temporada Alta (Nov-Apr):**
+- Budget total: USD 1.000-1.500/mês
+- Distribuição: 35% turista wellness, 30% expat, 20% local, 15% gift
+- Frequência: Campanhas diárias, rotação de creative
+
+**Temporada Média (Mai-Jun, Out):**
+- Budget total: USD 500-750/mês
+- Distribuição: 40% expat, 35% local, 25% gift/reengagement
+- Frequência: 4-5 dias/semana
+
+**Temporada Baixa (Jul-Sep):**
+- Budget total: USD 300-500/mês
+- Distribuição: 60% expat + local, 40% reengagement/remarketing
+- Frequência: 2-3 dias/semana
+- Foco: Retenção e loyalty, subscription promotions
+
+**Total Anual Estimado:** USD 9.000-14.000 (conservador, permite scaling)
+
+---
+
+### Métricas de Sucesso (Targets Iniciais)
+
+| Métrica | Meta | Justificativa |
+|---------|------|-----------------|
+| **CPC (Custo por Click)** | < USD 1,00 | Meta Ads padrão para nicho premium + copy relevante |
+| **CTR (Click-Through Rate)** | > 2% | Audiência pré-qualificada, copy orientado a ação |
+| **Conversão WhatsApp** | > 5% | Mensagem direta, audiência warm, CTA claro |
+| **CAC (Customer Acq. Cost)** | < USD 25 | Audiência local, budget pequeno, repetição alta |
+| **LTV (Lifetime Value)** | > USD 150 | Subscription model + repeat purchase (avg 3-5 compras/ano) |
+| **ROAS (Return on Ad Spend)** | > 5:1 | Meta: USD 5 receita por USD 1 gasto em ads |
+
+**Decisão de Continuidade:**
+- **Continue em Phase 2** se CAC < USD 25 E Conversão > 3% (em 2 semanas)
+- **Otimize** se ROAS < 4:1 mas CAC/Conversão no alvo
+- **Pivô** se CAC > USD 50 ou Conversão < 1% persistentemente
+
+---
+
+## Canais Complementares Recomendados
+
+### 1. Conteúdo Orgânico (Educação + Comunidade)
+
+**Instagram (Foco visual-heavy):**
+- Série mensal "Conoce el Caficultor" (história de produtor real, fotos, impacto)
+- Posts 3x/semana (conteúdo edu + lifestyle)
+- Stories diários (behind-the-scenes, delivery in action, customer testimonials)
+- Reels semanais (receitas cold brew, pour over, espresso; dicas armazenamento)
+
+**TikTok (Short-form content):**
+- 2 vídeos/semana (receitas rápidas, ritual de café, cupping notes simplicado)
+- Target: Audiência jovem (18-35), wellness/lifestyle
+- Objetivo: Brand awareness + virality
+
+**Blog/Email Marketing:**
+- 1 artigo/semana (Como armazenar café fresco, Cupping notes explicadas, Origem do café)
+- Newsletter semanal para subscribers (ofertas, produtor story, educational tip)
+- Objetivo: SEO (busca "café orgánico Nosara"), retention, education
+
+**Frequência Total:** 5-6 posts/semana (Instagram), 2 reels/semana, 2 TikToks/semana, 1 blog post/semana
+
+**Investimento:** Minimal (apenas tempo/criação própria ou freelancer local)
+
+---
+
+### 2. Partnerships Locais (Distribuição Física + Brand Association)
+
+#### Partnership A: Yoga Studios (Nosara/Tamarindo)
+**Modelo:** Coffee after-class ritual
+- Ofereça café gratuito após classes (amostra + branded cup)
+- Coloque card WhatsApp no studio
+- Frequência: 2x/semana (classes mais frequentes)
+- ROI: Amostra direta a audiência warm (25% de turistas em Nosara = yoga practitioners)
+- Target Studios: Sibu Yoga, Harmony, Nosara Yoga Institute
+
+#### Partnership B: Restaurantes/Cafés Premium
+**Modelo:** "Featured Coffee" em menu
+- Blue Garza como coffee supplier exclusivo para restaurante
+- Comissão: 15-20% por saco vendido
+- Oportunidade: Upsell durante refeição + brand visibility
+- Target: Orgánico Nosara (já premium, alinhado), Sibu Cafe, Fuego Brew
+
+#### Partnership C: Farmácias/Wellness Centers
+**Modelo:** Bundling coffee + wellness products
+- Exemplo: "Organic Coffee + Vitamins" promo mensal
+- Frequência: 1 promo/mês
+- Objetivo: Cross-selling + customer base expansion
+
+#### Partnership D: Hotels/Tour Operators Premium
+**Modelo:** "Coffee Experience" para hóspedes
+- Incluir story de produtor + sourcing transparente em quartos
+- Opção: Room delivery + gift shop stocking
+- Target: Hotéis boutique (Lagarta Lodge, Harmony, Nosara Sanctuary)
+
+**Investimento:** Minimal (apenas produto/comissão) + tempo de relacionamento
+
+---
+
+### 3. Experiências e Eventos (Community Building + Revenue Diversification)
+
+#### Evento 1: Coffee Tasting (Mensal, Temporada Alta)
+**Formato:** 1-1,5 horas, 8-12 pessoas, 3-4 single-origins diferentes
+- Local: Loja física (se existir) ou parceiro (yoga studio, hotel)
+- Conteúdo: Cupping education, origem story, tasting notes
+- Preço: USD 15-20/pessoa (café + snacks)
+- Objetivo: Educação, community building, direct sales
+- Frequência: 2x/mês em Nov-Apr, 1x/mês em May-Jun/Out
+
+**ROI:** 10 pessoas × USD 20 = USD 200/evento + 60% conversion para compra posterior (USD 120 adicional)
+
+#### Evento 2: Farm Visit (Trimestral)
+**Formato:** Tour a produtor cooperante (4 horas)
+- Conteúdo: Plantação, colheita, processamento, cupping in situ
+- Duração: 4 horas (trip + plantação + almoço + café)
+- Preço: USD 50/pessoa (transporte, almoço, café)
+- Capacidade: 15-20 pessoas
+- Objetivo: Storytelling imersivo, diferencial vs Orgánico
+- Frequência: 1x trimestre (Jan, Apr, Jul, Oct)
+
+**ROI:** 15 pessoas × USD 50 = USD 750/evento + brand loyalty (repeat purchase rate 80%+)
+
+#### Evento 3: Coffee Market Booth (Semanal, Nosara Market)
+**Modelo:** Booth em Super Nosara Saturday Market
+- Ofertas: Amostra grátis, promoção semanal, tienda de café
+- Objetivo: Visibilidade, amostra, direct sales
+- Custo: Mínimo (booth rental + café)
+- Frequência: Sábados (high foot traffic)
+
+**ROI:** 30-50 amostras/semana → 10-20% conversion → 3-10 vendas/semana
+
+**Investimento Total Eventos:** USD 2.000-3.000/ano (manageable)
+
+---
+
+### 4. Programa de Lealdade (Retenção + LTV Boost)
+
+#### Subscription Model (Foco em Expat Residente)
+
+**Plano Base:** 1 saco/semana (4 sacos/mês)
+- Preço: USD 45-60/mês (desconto vs varejo USD 18-22/saco)
+- Benefício: Fresco garantido, delivery automático, notas de cupping curadas
+- Renovação automática (com opção de pausa/cancel)
+- Target: Expats permanentes
+
+**Plano Premium:** 2 sacos/semana + guest tasting 1x/mês
+- Preço: USD 80-100/mês
+- Benefício: Acesso a edições limitadas, prioridade em farm visits, tasting access
+- Target: High-value customers + enthusiasts
+
+#### Points System
+- 1 ponto por USD 1 gasto
+- 50 pontos = USD 10 desconto em próxima compra
+- Bonus: Double points em mês de birthday
+- Objetivo: Increase LTV, reduce churn
+
+**Impacto Estimado:**
+- Retenção esperada: 70% (vs 40-50% sem programa)
+- LTV boost: +40% (via repeat + points redemption)
+- CAC payback: 4-5 meses (vs 6-8 sem programa)
+
+**Investimento:** Sistema de rewards (POS + email) = USD 500-1.000 setup
+
+---
+
+### 5. Partnership com Micro-Influenciadores Locais
+
+**Critério de Seleção:**
+- Audiência: 1k-10k seguidores (não precisa ser mega-influencer)
+- Alinhamento: Yoga, fitness, sustainability, wellness, local entrepreneur
+- Local: Nosara/Nicoya region
+- Engagement: >5% (qualidade > quantidade)
+
+**Modelo de Colaboração:**
+- Coffee mensal grátis (USD 20 valor)
+- Comissão: 10% em vendas referidas (via link/código)
+- Conteúdo: 2-3 posts/mês (foto, story, reels com café)
+- Contract: 3 meses (test) + renovação se ROI positivo
+
+**Target Influenciadores:**
+- Yoga teachers (Sibu, Harmony)
+- Fitness coaches
+- Food/wellness bloggers local
+- Digital nomads/remote workers (local)
+
+**ROI Esperado:** USD 20 × 10 influenciadores = USD 200 custo/mês + 20-30% conversion = USD 100-150 receita/mês (breakeven rápido, brand awareness)
+
+**Investimento:** USD 200-300/mês (coffee gifts + management)
+
+---
+
+## Síntese e Próximos Passos
+
+### Síntese Estratégica
+
+Blue Garza deve focar em **café artesanal orgânico** com modelo de delivery digital + storytelling de origem, diferenciando-se através de:
+
+1. **Especialização:** Café specialist (não full-service genérico)
+2. **Conveniência:** Delivery + WhatsApp (não presença física obrigatória)
+3. **Narrativa:** Origem transparente, sustentabilidade, impacto social (não commoditizado)
+4. **Modelo Sazonalizado:** Turista na alta, expat/local na baixa (não feast-famine)
+
+**Timing:** Mercado crescimento robusto (8,4% CAGR), consumidor Nosara pronto, competição não especializada.
+
+**Investimento Inicial:** Minimal (sem loja física), escalável via Meta Ads + WhatsApp.
+
+---
+
+### Roadmap de Execução (90 Dias)
+
+#### Fase 1: Validação & Piloto (Semanas 1-4)
+
+**Sourcing:**
+- Contato com cooperativas Costa Rica (Tarrazú COOPROZA, COOPELDOS, outras)
+- Definir 3-4 single-origins para lançamento inicial (diferentes altitudes/notas)
+- Estabelecer supply chain (pedidos mínimos, frequência, preço)
+
+**Criação de Conteúdo:**
+- Fotografias (plantação, produtor, grãos, xícara)
+- Vídeos curtos (origem story, cupping, how-to brew)
+- Copy em espanhol (5 ângulos, 3 versões cada)
+
+**Setup Operacional:**
+- WhatsApp Business (número, auto-responder, CRM básico)
+- Landing page simples (link único, descrição, CTA WhatsApp)
+- Sistema de pagamento (Stripe, PayPal, transferência bancária)
+
+**Teste Meta Ads:**
+- Budget: USD 200-300
+- Duração: 2 semanas
+- Target: Ângulo turista wellness + expat (testar)
+- Objetivo: Validar CAC, CTR, conversão (antes de scale)
+
+**Métrica de Decisão:** CAC < USD 30 com conversão > 2% = passar para Phase 2
+
+---
+
+#### Fase 2: Lançamento (Semanas 5-8)
+
+**Meta Ads Completa:**
+- Ampliar para 5 ângulos (wellness, expat, local, fitness, gift)
+- Budget: USD 500-1.000/mês (conforme sazonalidade)
+- Rodar campanhas de forma contínua (rotação criativa)
+- Daily tracking de CAC/CTR/conversão
+
+**Partnerships Locais:**
+- Contato direto com yoga studios (proposta coffee after-class)
+- Contato com restaurantes (featured coffee)
+- Kick-off com 2-3 partners principais
+
+**Primeiro Tasting Event:**
+- Organizar tasting semanal com 8-12 pessoas
+- Local: Loja de partner (yoga, hotel)
+- Objetivo: Gauge demand, educação consumidor, press local
+
+**Setup Subscription:**
+- Integrar sistema de billing recorrente (Stripe, Braintree)
+- Criar workflow de delivery automático
+- Lanço de subscription offer (first month 20% off)
+
+**Métrica de Decisão:** CAC < USD 25, conversão > 3%, LTV projetado > USD 150 = continuar para Phase 3
+
+---
+
+#### Fase 3: Scaling (Mês 2+)
+
+**Scale Meta Ads:**
+- Aumentar budget conforme ROAS > 4:1
+- Testar novos ângulos/creative
+- Ativar remarketing (website visitors, email list)
+
+**Expandir Experiências:**
+- Aumentar frequência de tastings (2x/mês em alta temporada)
+- Primeiro farm visit (4 meses depois)
+- Booth em market semanal (Super Nosara)
+
+**Expandir Canais Complementares:**
+- Instagram/TikTok com frequência de conteúdo (3-4x/semana)
+- Blog posts regulares (SEO)
+- Micro-influencers (5-10 parceiros)
+
+**Adicionar Segundo Produto (Condicional):**
+- Vinho orgânico IF demanda café estável + LTV > USD 200
+- Teste pequeño con 2-3 rótulos (validar market, sourcing)
+
+**Considerar Loja Física (Condicional):**
+- IF demanda justifica + fluxo de caixa positivo
+- Modelo: Café/juice bar + retail pequeno (300-500 sqft)
+- Locação: Perto de Playa Garza ou Playa Guiones (high foot traffic)
+
+---
+
+### Métricas de Decisão: Pivô vs Continuar
+
+#### Continue em Phase 3 se:
+- CAC < USD 25 (validado em 2+ semanas)
+- Conversão Meta > 3%
+- LTV projetado > USD 150 (baseado em repeat rate)
+- Repeat rate > 20% em primeiros 3 meses
+- Partnership approval > 50% (3 de 5 contactados)
+
+#### Otimize (não pivô) se:
+- CAC USD 25-35 (aceitável para nicho)
+- Conversão 2-3% (menor mas viável)
+- ROAS USD 3-4:1 (escalar com cuidado, testar novo creative)
+- Repeat rate 15-20% (viável com programa lealdade)
+
+#### Pivô para Vinho se:
+- Café CAC > USD 35 persistentemente
+- Conversão < 2% mesmo após otimizações
+- Demanda concentrada > 70% em Nov-Feb (sazonalidade extrema)
+- Partnership viável com distribuidor vinho premium (não trivial)
+
+#### Abort se:
+- CAC > USD 50 após 2 meses (não viável economicamente)
+- Conversão < 1% persistente (mensagem não alinha com audiência)
+- Sourcing impossível (produtor não coopera, certificação custosa demais)
+- Capacidade operacional insuficiente (infraestrutura não escala)
+
+---
+
+### Conclusão: O Caminho Adiante
+
+Café orgânico é o produto com maior alinhamento para Blue Garza em Nosara. Combina crescimento global robusto (8,4% CAGR), consumidor local pronto, diferencial competitivo claro via especialização + delivery, e modelo operacional escalável via digital.
+
+**Recomendação Executiva:** Iniciar piloto Meta Ads em próximas 4 semanas com orçamento controlado (USD 200-300), validar CAC/conversão/LTV em 2-3 semanas, e escalar agressivamente para Phase 2 se métricas alinhadas.
+
+**Timeline de Decisão:** Se CAC < USD 25 e conversão > 3% até final de Semana 3, ampliar para Phase 2 (lançamento completo) em Week 5. Se métricas abaixo do alvo, diagnosticar causa (audiência, copy, landing page, produto) e iterar antes de pivot.
+
+**Investimento Recomendado (6 meses):**
+- Meta Ads: USD 4.000-6.000
+- Eventos/Partnerships: USD 2.000-3.000
+- Setup operacional: USD 1.000-1.500
+- **Total:** USD 7.000-10.500 (conservador, permite scaling)
+
+---
+
 **Data de Criação:** 6 de maio de 2026  
-**Status:** Draft — Seções 1-4 concluídas
+**Status:** Draft — Seções 1-6 concluídas
