@@ -26,9 +26,9 @@ function delay(ms: number): Promise<void> {
 
 /**
  * Busca fichas GMB via Text Search
- * Retorna place_id + dados básicos
+ * Retorna place_id + dados básicos + token para próxima página
  */
-async function textSearch(query: string, locationBias?: { lat: number; lng: number }): Promise<GooglePlace[]> {
+async function textSearch(query: string, locationBias?: { lat: number; lng: number }): Promise<{ results: GooglePlace[]; nextPageToken?: string }> {
   const paramsRecord: Record<string, string> = {
     query,
     key: API_KEY!,
@@ -55,13 +55,16 @@ async function textSearch(query: string, locationBias?: { lat: number; lng: numb
     throw new Error(`Google Places API returned status ${data.status}`);
   }
 
-  return data.results || [];
+  return {
+    results: data.results || [],
+    nextPageToken: data.next_page_token,
+  };
 }
 
 /**
  * Busca página seguinte via page token
  */
-async function textSearchNextPage(pageToken: string): Promise<GooglePlace[]> {
+async function textSearchNextPage(pageToken: string): Promise<{ results: GooglePlace[]; nextPageToken?: string }> {
   const paramsRecord: Record<string, string> = {
     page_token: pageToken,
     key: API_KEY!,
@@ -81,7 +84,10 @@ async function textSearchNextPage(pageToken: string): Promise<GooglePlace[]> {
     throw new Error(`Google Places API returned status ${data.status}`);
   }
 
-  return data.results || [];
+  return {
+    results: data.results || [],
+    nextPageToken: data.next_page_token,
+  };
 }
 
 /**
@@ -201,15 +207,18 @@ export async function searchPlaces(
       // Loop de paginação: continua até não ter próxima página ou atingir 3 páginas
       do {
         let places: GooglePlace[];
+        let response: { results: GooglePlace[]; nextPageToken?: string };
 
         // Primeira página ou páginas subsequentes
         if (!pageToken) {
-          places = await textSearch(query);
+          response = await textSearch(query);
         } else {
           // Aguarda 2s entre requisições de página (rate limiting)
           await delay(RATE_LIMIT_CONFIG.PAGINATION_DELAY_MS);
-          places = await textSearchNextPage(pageToken);
+          response = await textSearchNextPage(pageToken);
         }
+
+        places = response.results;
 
         // Processa página atual
         for (const place of places) {
@@ -236,10 +245,8 @@ export async function searchPlaces(
           }
         }
 
-        // Atualiza token para próxima página (será undefined se não houver próxima)
-        // Nota: textSearch e textSearchNextPage retornam data.next_page_token
-        // mas não o capturam. Aqui simulamos captura para estrutura completa.
-        pageToken = undefined; // TODO: capturar next_page_token das respostas acima
+        // Captura token para próxima página
+        pageToken = response.nextPageToken;
         pageCount++;
 
         console.log(`[searchPlaces] Página ${pageCount - 1} de "${term}": ${places.length} resultados`);
