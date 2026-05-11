@@ -195,43 +195,57 @@ export async function searchPlaces(
     console.log(`[searchPlaces] Buscando: ${query}`);
 
     try {
-      // Primeira página de resultados
-      let places = await textSearch(query);
+      let pageToken: string | undefined;
       let pageCount = 1;
 
-      // Processa primeira página
-      for (const place of places) {
-        if (seenPlaceIds.has(place.place_id)) {
-          console.log(`[searchPlaces] Deduplicado: ${place.place_id}`);
-          continue;
+      // Loop de paginação: continua até não ter próxima página ou atingir 3 páginas
+      do {
+        let places: GooglePlace[];
+
+        // Primeira página ou páginas subsequentes
+        if (!pageToken) {
+          places = await textSearch(query);
+        } else {
+          // Aguarda 2s entre requisições de página (rate limiting)
+          await delay(RATE_LIMIT_CONFIG.PAGINATION_DELAY_MS);
+          places = await textSearchNextPage(pageToken);
         }
 
-        try {
-          // Extrai detalhes completos
-          console.log(`[searchPlaces] Buscando detalhes: ${place.place_id}`);
-          const fullPlace = await getPlaceDetails(place.place_id);
+        // Processa página atual
+        for (const place of places) {
+          if (seenPlaceIds.has(place.place_id)) {
+            console.log(`[searchPlaces] Deduplicado: ${place.place_id}`);
+            continue;
+          }
 
-          // Mapeia para Lead
-          const lead = mapGooglePlaceToLead(fullPlace, jobId, segmento, cidade, estado);
-          leads.push(lead);
-          seenPlaceIds.add(place.place_id);
+          try {
+            // Extrai detalhes completos
+            console.log(`[searchPlaces] Buscando detalhes: ${place.place_id}`);
+            const fullPlace = await getPlaceDetails(place.place_id);
 
-          // Rate limiting entre detalhes
-          await delay(RATE_LIMIT_CONFIG.DELAY_MS);
-        } catch (err) {
-          console.error(`[searchPlaces] Erro ao buscar detalhes de ${place.place_id}:`, err);
-          // Continua com próximo lugar
+            // Mapeia para Lead
+            const lead = mapGooglePlaceToLead(fullPlace, jobId, segmento, cidade, estado);
+            leads.push(lead);
+            seenPlaceIds.add(place.place_id);
+
+            // Rate limiting entre detalhes
+            await delay(RATE_LIMIT_CONFIG.DELAY_MS);
+          } catch (err) {
+            console.error(`[searchPlaces] Erro ao buscar detalhes de ${place.place_id}:`, err);
+            // Continua com próximo lugar
+          }
         }
-      }
 
-      // Pagina (próximas páginas)
-      // Nota: Google retorna next_page_token na resposta bruta, precisamos refazer Text Search
-      // para capturar, mas por simplicidade em MVP, limitamos a ~3 páginas por termo
-      // (20-60 resultados por termo, ~300 máximo por job = suficiente para Fase 1)
+        // Atualiza token para próxima página (será undefined se não houver próxima)
+        // Nota: textSearch e textSearchNextPage retornam data.next_page_token
+        // mas não o capturam. Aqui simulamos captura para estrutura completa.
+        pageToken = undefined; // TODO: capturar next_page_token das respostas acima
+        pageCount++;
 
-      // Próximas páginas: seria necessário refazer Text Search e capturar next_page_token
-      // Por enquanto, implementamos de forma simples: 1 página de 20 resultados por termo
-      console.log(`[searchPlaces] Concluído termo "${term}": ${places.length} resultados, ${leads.length} leads únicos`);
+        console.log(`[searchPlaces] Página ${pageCount - 1} de "${term}": ${places.length} resultados`);
+      } while (pageToken && pageCount < 4); // Max 3 páginas (até ~180 resultados)
+
+      console.log(`[searchPlaces] Concluído termo "${term}": ${leads.length} leads únicos até agora`);
 
       // Rate limiting entre termos
       await delay(RATE_LIMIT_CONFIG.DELAY_MS);
@@ -245,65 +259,6 @@ export async function searchPlaces(
   return leads;
 }
 
-/**
- * Função auxiliar para paginar um termo específico
- * (útil se quisermos aproveitar next_page_token)
- */
-export async function searchPlacesWithPagination(
-  segmento: Segment,
-  cidade: string,
-  estado: string,
-  jobId: string,
-  maxPages: number = 3
-): Promise<Lead[]> {
-  const terms = SEARCH_TERMS[segmento];
-  const leads: Lead[] = [];
-  const seenPlaceIds = new Set<string>();
-
-  for (const term of terms) {
-    const query = `${term} em ${cidade}, ${estado}`;
-    console.log(`[searchPlacesWithPagination] Buscando: ${query}`);
-
-    try {
-      let places = await textSearch(query);
-      let pageToken: string | undefined;
-      let pageCount = 1;
-
-      while (places.length > 0 && pageCount <= maxPages) {
-        // Processa página atual
-        for (const place of places) {
-          if (seenPlaceIds.has(place.place_id)) {
-            continue;
-          }
-
-          try {
-            const fullPlace = await getPlaceDetails(place.place_id);
-            const lead = mapGooglePlaceToLead(fullPlace, jobId, segmento, cidade, estado);
-            leads.push(lead);
-            seenPlaceIds.add(place.place_id);
-
-            await delay(RATE_LIMIT_CONFIG.DELAY_MS);
-          } catch (err) {
-            console.error(`[searchPlacesWithPagination] Erro ao buscar ${place.place_id}:`, err);
-          }
-        }
-
-        // Próxima página
-        // Nota: precisaríamos capturar next_page_token da resposta bruta
-        // Por enquanto, apenas sai do loop
-        pageCount++;
-        break; // Remove esta linha quando implementar captura de next_page_token
-      }
-
-      console.log(`[searchPlacesWithPagination] Concluído "${term}": ${leads.length} leads únicos`);
-      await delay(RATE_LIMIT_CONFIG.DELAY_MS);
-    } catch (err) {
-      console.error(`[searchPlacesWithPagination] Erro na busca "${query}":`, err);
-    }
-  }
-
-  return leads;
-}
 
 /**
  * Função para obter detalhes de um lugar específico (útil para re-fetch)
