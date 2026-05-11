@@ -1,0 +1,33 @@
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "devCommand": "npm run dev",
+  "env": [
+    {
+      "key": "SUPABASE_URL",
+      "value": "@supabase_url"
+    },
+    {
+      "key": "SUPABASE_ANON_KEY",
+      "value": "@supabase_anon_key"
+    },
+    {
+      "key": "GOOGLE_PLACES_API_KEY",
+      "value": "@google_places_api_key"
+    },
+    {
+      "key": "KOMMO_BASE_URL",
+      "value": "@kommo_base_url"
+    },
+    {
+      "key": "KOMMO_ACCESS_TOKEN",
+      "value": "@kommo_access_token"
+    }
+  ],
+  "functions": {
+    "api/functions/**/*.ts": {
+      "memory": 1024,
+      "maxDuration": 60
+    }
+  }
+}
