@@ -8,7 +8,7 @@
  * - Deduplicação: por place_id
  */
 
-import { Lead, Segment, SEARCH_TERMS, GooglePlace, RATE_LIMIT_CONFIG } from './types';
+import { Lead, Segment, State, SEARCH_TERMS, GooglePlace, RATE_LIMIT_CONFIG } from './types';
 
 const API_KEY = process.env.GOOGLE_PLACES_API_KEY;
 const BASE_URL = 'https://maps.googleapis.com/maps/api/place';
@@ -153,7 +153,7 @@ function mapGooglePlaceToLead(
     nome: place.name,
     segmento,
     cidade,
-    estado: estado as any,
+    estado: estado as State,
     telefone: place.formatted_phone_number || null,
     instagram: null, // Preenchido na Fase 2 (enriquecimento)
     site: place.website || null,
