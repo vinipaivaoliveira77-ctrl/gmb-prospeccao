@@ -51,7 +51,7 @@ export enum JobStatus {
  * Status de um lead no pipeline de Kommo
  * Rastreia a integração com CRM após scoring
  */
-export enum PipelineStatusEnum {
+export enum PipelineStatusType {
   PENDING = 'pending',
   PUSHED = 'pushed',
   CONTACT_CREATED = 'contact_created',
@@ -146,7 +146,7 @@ export interface PipelineStatus {
   id: string;
   lead_id: string;
   job_id: string;
-  status: PipelineStatusEnum;
+  status: PipelineStatusType;
   kommo_contact_id?: string | null; // ID do contato criado em Kommo
   error_message?: string | null;
   pushed_at?: string | null;
@@ -249,4 +249,18 @@ export function isEstado(value: unknown): value is Estado {
  */
 export function isJobStatus(value: unknown): value is JobStatus {
   return Object.values(JobStatus).includes(value as JobStatus);
+}
+
+/**
+ * Verifica se um valor é um PipelineStatusType válido
+ */
+export function isPipelineStatusType(value: unknown): value is PipelineStatusType {
+  return Object.values(PipelineStatusType).includes(value as PipelineStatusType);
+}
+
+/**
+ * Verifica se um valor é um OptOutReason válido
+ */
+export function isOptOutReason(value: unknown): value is OptOutReason {
+  return Object.values(OptOutReason).includes(value as OptOutReason);
 }
