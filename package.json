@@ -1,0 +1,13 @@
+{
+  "name": "gmb-prospeccao-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd worker && npm install && npm run build",
+    "start": "cd worker && node dist/index.js",
+    "dev": "cd worker && npm run dev"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
